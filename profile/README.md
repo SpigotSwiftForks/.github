@@ -18,4 +18,4 @@ We are a dedicated team of developers who believe in the power of open-source so
 
 ## How to Use Our Plugins
 
-To use our plugins, simply navigate to the repository of the plugin you're interested in, download the latest release, and drop it into your server's `plugins` directory. Restart your server, and you're good to go!
+To use the plugins, simply navigate to the repository of the plugin you're interested in, download the latest release, and drop it into your server's `plugins` directory. Restart your server, and you're good to go!
