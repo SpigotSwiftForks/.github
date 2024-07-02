@@ -16,6 +16,6 @@ We are a dedicated team of developers who believe in the power of open-source so
 - **Community Collaboration**: We encourage community contributions and feedback. If you have a suggestion or want to contribute, we're open to pull requests and discussions.
 - **Quick Releases**: Our name isn't just for show. We strive to release updates quickly after a new Spigot or Minecraft version is released.
 
-## How to Use Our Plugins
+## How to Use The Plugins
 
 To use the plugins, simply navigate to the repository of the plugin you're interested in, download the latest release, and drop it into your server's `plugins` directory. Restart your server, and you're good to go!
